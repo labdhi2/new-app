@@ -1,0 +1,35 @@
+.customDiv {
+  width: 100%;
+  height: 300px;
+  background-color: #016064;
+}
+.container {
+  padding: 20px; /* Add padding around the content */
+}
+
+.heading {
+  text-decoration: underline; /* Add underline to the heading */
+}
+
+.line {
+  width: 100%; /* Make the line span the entire width of the container */
+  height: 1px; /* Set the height of the line */
+  background-color: #000; /* Set the color of the line */
+  margin: 10px 0; /* Add margin above and below the line for spacing */
+}
+
+
+
+.slider-container {
+    width: 100%;
+    max-width: 600px; /* Adjust as needed */
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  
+  .slider-image {
+    width: 100%;
+    height: auto;
+    transition: transform 0.5s ease; /* Smooth transition */
+  }
+
