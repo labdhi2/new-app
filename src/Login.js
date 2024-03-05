@@ -13,7 +13,7 @@ class Login extends Component {
           <li>Facilisis bibendum</li>
           <li>Vestibulum vulputate</li>
           <li>Eget erat</li>
-          <li>Id porttitor</li>
+          <li>Id  hporttitor</li>
         </ol>
       </div>
     );
